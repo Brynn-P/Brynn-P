@@ -22,6 +22,7 @@ Tech stack / tools:
 Projects to explore:
 
    • weird_weather: 
+   
       – a learning project where I practice Python, scripting, and general coding skills in a fun context.
       – https://github.com/Brynn-P/weird_weather
 
