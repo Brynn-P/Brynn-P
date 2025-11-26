@@ -5,23 +5,24 @@ Before starting this journey, I spent nearly a decade in wildlife conservation a
 
 Currently learning and working on:
 
-    Building a strong foundation in Python and starting to explore C++
+   • Building a strong foundation in Python and starting to explore C++
 
-    Becoming proficient with Bash and PowerShell scripting
+   • Becoming proficient with Bash and PowerShell scripting
 
-    Developing security tools and experimenting with CTF‑style workflows
+   • Developing security tools and experimenting with CTF‑style workflows
 
 Tech stack / tools:
 
-    Comfortable working in a Linux terminal
+   • Comfortable working in a Linux terminal
 
-    Visual Studio Code / VSCodium
+   • Visual Studio Code / VSCodium
 
-    Python (beginner–intermediate, growing steadily)
+   • Python (beginner–intermediate, growing steadily)
 
 Projects to explore:
 
-    weird_weather – a learning project where I practice Python, scripting, and general coding skills in a fun context.
+   • weird_weather – a learning project where I practice Python, scripting, and general coding skills in a fun context.
+     https://github.com/Brynn-P/weird_weather
 
 Contact:
 
