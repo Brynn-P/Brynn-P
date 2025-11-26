@@ -21,10 +21,13 @@ Tech stack / tools:
 
 Projects to explore:
 
-   • weird_weather: 
-   
-      – a learning project where I practice Python, scripting, and general coding skills in a fun context.
-      – https://github.com/Brynn-P/weird_weather
+   • NetNoodle
+   - NetNoodle is a tool I put together whilst competing in the NCL(National Cyber League) to help aid me with some of the challenges that I came accross during the games
+   - https://github.com/Brynn-P/NetNoodle
+
+   • weird_weather:
+   - a learning project where I practice Python, scripting, and general coding skills in a fun context.
+   - https://github.com/Brynn-P/weird_weather.
 
 Contact:
 
