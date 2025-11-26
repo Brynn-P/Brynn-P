@@ -21,9 +21,12 @@ Tech stack / tools:
 
 Projects to explore:
 
-   • weird_weather – a learning project where I practice Python, scripting, and general coding skills in a fun context.
-     https://github.com/Brynn-P/weird_weather
+   • weird_weather: 
+      – a learning project where I practice Python, scripting, and general coding skills in a fun context.
+      – https://github.com/Brynn-P/weird_weather
 
 Contact:
 
     Best way to reach me right now is via my GitHub profile email.
+
+I am always open to learning‑focused collaboration on security tooling and scripting projects.
