@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I’m Brynn 👋
 
-<!--
-**Brynn-P/Brynn-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conservationist turned cybersec student exploring Linux, Python, and security tooling.
+Before starting this journey, I spent nearly a decade in wildlife conservation and physical security, and now I’m focused on applying that experience to cybersecurity and defensive tooling.
 
-Here are some ideas to get you started:
+Currently learning and working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Building a strong foundation in Python and starting to explore C++
+
+    Becoming proficient with Bash and PowerShell scripting
+
+    Developing security tools and experimenting with CTF‑style workflows
+
+Tech stack / tools:
+
+    Comfortable working in a Linux terminal
+
+    Visual Studio Code / VSCodium
+
+    Python (beginner–intermediate, growing steadily)
+
+Projects to explore:
+
+    weird_weather – a learning project where I practice Python, scripting, and general coding skills in a fun context.
+
+Contact:
+
+    Best way to reach me right now is via my GitHub profile email.
