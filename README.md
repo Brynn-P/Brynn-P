@@ -27,6 +27,6 @@ Projects to explore:
 
 Contact:
 
-    Best way to reach me right now is via my GitHub profile email.
+   • Best way to reach me right now is via my GitHub profile email.
 
 I am always open to learning‑focused collaboration on security tooling and scripting projects.
