@@ -1,6 +1,6 @@
 Hi, I’m Brynn 👋
 
-Conservationist turned cybersec student exploring Linux, Python, and security tooling.
+Conservationist turned cybersec student exploring Linux, Python,Go and security tooling.
 Before starting this journey, I spent nearly a decade in wildlife conservation and physical security, and now I’m focused on applying that experience to cybersecurity and defensive tooling.
 
 Currently learning and working on:
@@ -18,6 +18,8 @@ Tech stack / tools:
    • Visual Studio Code / VSCodium
 
    • Python (beginner–intermediate, growing steadily)
+
+   • Golang (very beginer but enjoying this lang allot)
 
 Projects to explore:
 
