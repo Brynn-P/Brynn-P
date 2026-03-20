@@ -5,7 +5,7 @@ Before starting this journey, I spent nearly a decade in wildlife conservation a
 
 Currently learning and working on:
 
-   • Building a strong foundation in Python and starting to explore C++
+   • Building a strong foundation in Python and starting to explore golang and C++ 
 
    • Becoming proficient with Bash and PowerShell scripting
 
@@ -23,6 +23,9 @@ Tech stack / tools:
 
 Projects to explore:
 
+   • Portfolio and blog
+   - https://brynn-p.github.io/portfolio_site/
+
    • NetNoodle
    - NetNoodle is a tool I put together whilst competing in the NCL(National Cyber League) to help aid me with some of the challenges that I came accross during the games
    - https://github.com/Brynn-P/NetNoodle
@@ -33,6 +36,7 @@ Projects to explore:
 
 Contact:
 
-   • Best way to reach me right now is via my GitHub profile email.
+   • Best way to reach me right now is via signal.
+   - https://signal.me/#eu/uvHhVISOfrmR4zpb8t-14IxcZNxfVRJzMW8RE6qTIMGTdD29iylBCYFn_NWzVmvN
 
 I am always open to learning‑focused collaboration on security tooling and scripting projects.
