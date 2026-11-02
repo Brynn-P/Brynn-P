@@ -5,7 +5,7 @@ Before starting this journey, I spent nearly a decade in wildlife conservation a
 
 Currently learning and working on:
 
-   • Building a strong foundation in Python and starting to explore golang and C++ 
+   • Building a strong foundation in Python and starting to explore golang and C
 
    • Becoming proficient with Bash and PowerShell scripting
 
